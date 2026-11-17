@@ -1,18 +1,20 @@
-# 📊 Power BI Projects | Data Analytics & Business Intelligence
 
-Welcome to my Power BI Projects Repository!
+# 📊 Power BI & Excel Projects | Data Analytics & Business Intelligence
 
-This repository contains a collection of interactive Power BI dashboards developed to explore datasets, analyze trends, generate meaningful insights, and support data-driven decision-making.
+Welcome to my Data Analytics and Business Intelligence Projects Repository!
+
+This repository contains a collection of interactive Power BI and Excel dashboards developed to explore datasets, analyze trends, generate meaningful insights, and support data-driven decision-making.
 
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop** – Dashboard development and visualization
+- **Microsoft Excel** – Data analysis and interactive dashboards
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Calculations and measures
 - **Data Modeling** – Structuring and managing data
 - **Data Visualization** – Interactive reports and dashboards
 
-## 📁 Projects
+## 📁 Power BI Projects
 
 | Project | Description |
 |---|---|
@@ -23,22 +25,30 @@ This repository contains a collection of interactive Power BI dashboards develop
 | Connect X | Power BI dashboard project |
 | Pizza Sales Analysis | Sales performance and business insights |
 
+## 📊 Excel Projects
+
+| Project | Description |
+|---|---|
+| Excel Sales Analysis | Sales performance analysis, reporting, and business insights |
+| HR Analytics Dashboard | Employee data analysis, workforce insights, and HR performance tracking |
+
 ## 🎯 Key Learning Areas
 
 - Data cleaning and preprocessing
-- Data transformation using Power Query
+- Data transformation using Power Query and Excel
 - Creating calculated columns and measures using DAX
 - Data modeling and relationships
 - Interactive dashboard development
 - Identifying trends and patterns
+- Sales and HR analytics
 - Presenting insights through visualizations
 
 ## 🚀 How to Explore the Projects
 
 1. Clone or download this repository.
-2. Install Microsoft Power BI Desktop.
-3. Download the `.pbix` file you want to explore.
-4. Open the file using Power BI Desktop.
+2. Install Microsoft Power BI Desktop for Power BI projects.
+3. Download the project files you want to explore.
+4. Open `.pbix` files using Power BI Desktop and Excel files using Microsoft Excel.
 5. Explore the interactive dashboards and visualizations.
 
 ## 👩‍💻 About Me
@@ -51,5 +61,5 @@ I enjoy working with data, building interactive dashboards, and transforming raw
 
 - LinkedIn: https://www.linkedin.com/in/shamitha-h-p-346324244/
 - GitHub: https://github.com/ShamithaHP
-<img width="1763" height="203" alt="image" src="https://github.com/user-attachments/assets/0494cdbf-56f3-407a-a235-7ea9858d2e0d" />
 
+<img width="1763" height="203" alt="image" src="https://github.com/user-attachments/assets/0494cdbf-56f3-407a-a235-7ea9858d2e0d" />
